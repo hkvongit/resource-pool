@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 1. Gradients - <a href="https://hexcolor.co/">hexcolor.co</a>
 
 **UI/UX guides**
-
+1. <a href="https://calltoidea.com/">Call To Idea *IMP*</a>
 ```markdown
 Syntax highlighted code block
 
