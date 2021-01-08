@@ -8,6 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Web Development Resources
+<a href="./web_development_resources/javascript_libraries.md"><h3>Javascript Librabries</h3></a>
+
 **CSS Helper sites:**
 1. Gradients - <a href="https://hexcolor.co/">hexcolor.co</a>
 
