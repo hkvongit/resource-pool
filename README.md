@@ -1,9 +1,3 @@
-## Myself HKV
-<a href="./CONTRIBUTING.html"> CONTRIBUTING </a>
-<br/>
-<a href="./help/HELP.html"> INSIDE DIR FILE </a>
-<br/>
-
 You can use the [editor on GitHub](https://github.com/hkvongit/hkv.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -12,38 +6,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Web Development Resources
-<a href="./web_development_resources/javascript_libraries.md"><h3>Javascript Librabries</h3></a>
+<br/>
 
-**CSS Helper sites:**
-1. Gradients - <a href="https://hexcolor.co/">hexcolor.co</a>
+# Web Development Resources 🕸
+[<h2>General Topics</h2>](./web_development_resources/javascript_libraries.html)eg: how web works.
+[<h2>UI/ UX Resources</h2>](./web_development_resources/Ui_UX_resources/.html)
+[<h2>Javascript Libraries and frameworks</h2>](./web_development_resources/javascript_libraries.html)
+[<h2>NPM Modules</h2>](./web_development_resources/javascript_libraries.html)
+[<h2>React JS</h2>](./web_development_resources/javascript_libraries.html)
 
-**UI/UX guides**
-1. <a href="https://calltoidea.com/">Call To Idea *IMP*</a>
-```markdown
-Syntax highlighted code block
+<br/>
 
-# Header 1
-## Header 2
-### Header 3
+# Linux resources 🐧
+[<h2>Ubuntu Resources</h2>](./web_development_resources/javascript_libraries.html)
+[<h2>Gnome</h2>](./web_development_resources/javascript_libraries.html)
 
-- Bulleted
-- List
+<br/>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hkvongit/hkv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Help
+<a href="./CONTRIBUTING.html"> CONTRIBUTING </a>
+<br/>
+<a href="./help/HELP.html"> INSIDE DIR FILE </a>
+<br/>
+[GitHub repository](https://github.com/hkvongit/hkv.github.io/edit/main/README.md)
