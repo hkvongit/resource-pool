@@ -1,5 +1,6 @@
 # Linux Resources ➡ Applications
-<link rel="stylesheet" type="text/css" media="all" href="./applications.css" />
+<link rel="stylesheet" type="text/css" media="all" href="../index.css" />
+
 <h3 class="cus-h3"> Boop-GTK (Scriptable Scratchpad For Developers) </h3>
 <a href="https://www.linuxuprising.com/2021/02/easily-transform-text-with-boop-gtk.html">https://www.linuxuprising.com/2021/02/easily-transform-text-with-boop-gtk.html</a> <br/>
 Easily Transform Text With Boop-GTK (Scriptable Scratchpad For Developers)
