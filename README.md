@@ -21,7 +21,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 [Applications](linux_resources/Applications.html)   <br/>
 [Ubuntu Resources](./web_development_resources/javascript_libraries.html)   <br/>
 [Gnome](./web_development_resources/javascript_libraries.html)  <br/>
-[Gnome](./web_development_resources/javascript_libraries.html)  <br/>
 
 <br/>
 
