@@ -18,6 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <br/>
 
 # Linux resources 🐧
+[<h2>Applications</h2>](linux_resources/Applications.html)
 [<h2>Ubuntu Resources</h2>](./web_development_resources/javascript_libraries.html)
 [<h2>Gnome</h2>](./web_development_resources/javascript_libraries.html)
 
