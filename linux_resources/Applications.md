@@ -1,5 +1,4 @@
-# Linux Resources
-## Applications <br/>
+# Linux Resources ➡ Applications
 
 <h3 style="color: green; margin-top:2rem; margin-bottom:0.2rem; display:block"> Boop-GTK (Scriptable Scratchpad For Developers) </h3>
 <a href="https://www.linuxuprising.com/2021/02/easily-transform-text-with-boop-gtk.html">https://www.linuxuprising.com/2021/02/easily-transform-text-with-boop-gtk.html</a> <br/>
