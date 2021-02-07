@@ -1,4 +1,4 @@
-These are the resources I found in my computer science journey.Happy to share to share with you all. 
+These are the resources I found in my computer science journey. Happy to share with you all. 
 <br/>
 <em>"Liberate knowledge liberate love."</em>
 
