@@ -8,7 +8,7 @@ This is a simple editor for pasting text and executing some operations on it, li
 <br/>
 
 <h3 style="color:green; margin-top:2rem; display:block"> Deskreen (Screen Share to another computer)</h3>
-<a>https://www.linuxuprising.com/2021/01/deskreen-makes-any-device-with-web.html</a><br/>
+<a href="">https://www.linuxuprising.com/2021/01/deskreen-makes-any-device-with-web.html</a><br/>
 Deskreen Makes Any Device With A Web Browser A Second Screen For Your Computer
 Deskreen is a new free and open source application that can be used to make any device with a web browser, a second screen for your computer.
 <br/>
