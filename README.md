@@ -9,18 +9,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <br/>
 
 # Web Development Resources 🕸
-[<h2>General Topics</h2>](./web_development_resources/javascript_libraries.html)eg: how web works.
-[<h2>UI/ UX Resources</h2>](./web_development_resources/Ui_UX_resources/.html)
-[<h2>Javascript Libraries and frameworks</h2>](./web_development_resources/javascript_libraries.html)
-[<h2>NPM Modules</h2>](./web_development_resources/javascript_libraries.html)
-[<h2>React JS</h2>](./web_development_resources/javascript_libraries.html)
+[General Topics](./web_development_resources/javascript_libraries.html)eg: how web works.
+[UI/ UX Resources](./web_development_resources/Ui_UX_resources/.html)
+[Javascript Libraries and frameworks](./web_development_resources/javascript_libraries.html)
+[NPM Modules](./web_development_resources/javascript_libraries.html)
+[React JS](./web_development_resources/javascript_libraries.html)
 
 <br/>
 
 # Linux resources 🐧
-[<h2>Applications</h2>](linux_resources/Applications.html)
-[<h2>Ubuntu Resources</h2>](./web_development_resources/javascript_libraries.html)
-[<h2>Gnome</h2>](./web_development_resources/javascript_libraries.html)
+[Applications](linux_resources/Applications.html)
+[Ubuntu Resources](./web_development_resources/javascript_libraries.html)
+[Gnome](./web_development_resources/javascript_libraries.html)
 
 <br/>
 
