@@ -1,7 +1,7 @@
 # Linux Resources
 ## Applications <br/>
 
-[Boop-GTK (Scriptable Scratchpad For Developers)](https://www.linuxuprising.com/2021/02/easily-transform-text-with-boop-gtk.html)
+[**Boop-GTK (Scriptable Scratchpad For Developers)**](https://www.linuxuprising.com/2021/02/easily-transform-text-with-boop-gtk.html) <br/>
 Easily Transform Text With Boop-GTK (Scriptable Scratchpad For Developers)
 This is a simple editor for pasting text and executing some operations on it, like Base64 encode, format JSON, Hex to RGB, HTML encode, minify CSS etc
 <br/>
