@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "7c269fae11bbe18b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d3e6da03f2a12c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "blogs/How JavaScript works ? - A beginner's article PART 1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77c4e0498524e994",
+    "type": "split",
+    "children": [
+      {
+        "id": "6096e785a53b0a22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5129da699e972981",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3ab4f49b8c62614",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c380d8f8965b6db6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cfcb6c83e01b1f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89d04bf1f54989b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blogs/How JavaScript works ? - A beginner's article PART 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
