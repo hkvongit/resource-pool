@@ -1,3 +1,4 @@
+# How JavaScript works ? - A beginner's article { PART 1 }
 sources:
 - https://www.youtube.com/watch?v=hGSHfObcVf4
 - [diagrams]()
